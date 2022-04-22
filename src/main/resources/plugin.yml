@@ -1,0 +1,20 @@
+name: BasicComands
+version: '${version}'
+main: me.seila.basiccomands.JunglesEvents
+api-version: 1.18
+authors: [ Seila ]
+description: Just some simple commands
+commands:
+
+  ajuda:
+    description: Mostra uma lista com todos os comandos do servidor
+    usage: /<command>
+
+  menu:
+    description: Abre e Fecha o menu
+    usage: /<command>
+
+  callAirdrop:
+    description: Chama o airdrop
+    usage: /<command>
+
